@@ -2,7 +2,6 @@
 library(shiny)
 library(shinythemes)
 
-
 # Define UI
 ui <- fluidPage(theme = shinytheme("united"), 
                 navbarPage(
